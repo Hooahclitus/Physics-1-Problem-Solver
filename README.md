@@ -1,4 +1,4 @@
-# Physics-1 Problem Solver
+# Physics Problem Solver
 
 ## Overview
 
