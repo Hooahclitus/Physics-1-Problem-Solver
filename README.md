@@ -40,4 +40,4 @@ The `physics-1-problem-solver` is a Leiningen project. To use it, simply clone t
 
 
 ## License
-physics-1-problem-solver is licensed under the MIT license. For more details, refer to the LICENSE file in the repository.
+This project is licensed under the MIT License. Please see the `LICENSE` file for more details.
