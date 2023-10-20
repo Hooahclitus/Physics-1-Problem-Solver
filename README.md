@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `physics-1-problem-solver` is a comprehensive solution designed to tackle various physics problems spanning topics from vector operations to Newton's laws of motion. This project provides detailed solutions and explanations to physics challenges by employing a range of utilities, vector operations, motion calculations, and force computations. It is based on the Leiningen project structure and derives its physics problems and equations from the textbook [University Physics Volume 1](https://openstax.org/details/books/university-physics-volume-1).
+The `physics-problem-solver` is a comprehensive solution designed to tackle various physics problems spanning topics from vector operations to Newton's laws of motion. This project provides detailed solutions and explanations to physics challenges by employing a range of utilities, vector operations, motion calculations, and force computations. It is based on the Leiningen project structure and derives its physics problems and equations from the textbook [University Physics Volume 1](https://openstax.org/details/books/university-physics-volume-1).
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The `physics-1-problem-solver` is a comprehensive solution designed to tackle va
 
 ## Usage
 
-The `physics-1-problem-solver` is a Leiningen project. To use it, simply clone the repository. There are no outside dependencies required and no additional installation instructions provided. After setting up, you can use the functionalities provided by the `physics-1-problem-solver` namespace. Import the necessary modules and leverage the functions to solve specific physics problems. Refer to the provided examples in the `core.clj` file for guidance.
+The `physics-problem-solver` is a Leiningen project. To use it, simply clone the repository. There are no outside dependencies required and no additional installation instructions provided. After setting up, you can use the functionalities provided by the `physics-problem-solver` namespace. Import the necessary modules and leverage the functions to solve specific physics problems. Refer to the provided examples in the `core.clj` file for guidance.
 
 ```clojure
 (ns your-namespace
